@@ -2,7 +2,7 @@
 Facial Expression Recognition of Emotion using Deep Learning Convolutional Neural Network
 
 I used FER2013 as dataset, because I consider it a good starting to point to keep it simple in term of complexity of size and computationally of the dataset,
-but also to make it hard to achieve a good accuracy, as FER2013 is an outdated dataset, unbalance and poor of details. It contains 35887 images of facial expression examples in grayscale, for unbalanced I mean e.g., the largest class, happy, containing more data 8989 (images), against the smallest class, disgust, with only 547 images—also, having a large amount of noise and non always apparent features. The dataset is classified as following: 0 = anger,1 = disgust,2 = fear,3 = happiness, 4 = sadness, 5 = surprise, 6 = neutral. From left to right (Blue is 0, Pink is 6)
+but also to make it hard to achieve a good accuracy, as FER2013 is an outdated dataset, unbalance and poor of details. It contains 35887 images of facial expression examples in grayscale, for unbalanced I mean e.g., the largest class, happy, containing more data 8989 (images), against the smallest class, disgust, with only 547 images—also, having a large amount of noise and non always apparent features. The dataset is classified as following: 0 = anger, 1 = disgust, 2 = fear, 3 = happiness,  4 = sadness, 5 = surprise, 6 = neutral. From left to right (Blue is 0, Pink is 6)
 
 ![image](https://user-images.githubusercontent.com/65671410/170224099-f82eca5b-3d4f-4156-a851-87b6d45d4f1d.png)
 
