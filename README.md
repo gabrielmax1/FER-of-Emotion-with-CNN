@@ -14,7 +14,7 @@ but also to make it hard to achieve a good accuracy, as FER2013 is an outdated d
 
 ![image](https://user-images.githubusercontent.com/65671410/170224453-23835db9-fbfa-468e-aec4-d3df5f2c19f0.png)
 
-The latter image shows the case where the model weights, (hence, in simple words, what and how it learned) thus, the model does a wrong prediction. 
+The latter image shows the case where the model weights, (hence, in simple words, what and how it learned) thus, the A.I. does a wrong prediction. 
 
 To build my model I used Keras, a high-level Neural Network library,
 applied as a wrapper on Tensorflow. The latter, is an open-source library for machine learning having both high and low-level APIs. Tensorflow is used as a backend for the model. 
