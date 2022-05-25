@@ -1,0 +1,4 @@
+*.html linguist-detectable=false
+*.py linguist-language=Python
+*.pynb linguist-language=Python
+*.pynb linguist-language=Jupyter
